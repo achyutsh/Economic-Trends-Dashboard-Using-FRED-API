@@ -10,7 +10,7 @@ import plotly.express as px
 import requests
 
 # API key
-API_KEY = "a78e5c6ae5b633ab525a8db1963f8009"
+API_KEY = "sample"
 
 
 # Define a function to fetch data from the FRED API
