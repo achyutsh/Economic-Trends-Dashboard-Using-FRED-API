@@ -32,16 +32,16 @@ An interactive dashboard built with **Dash and Plotly** that visualizes key US e
 ## 📷 Dashboard Preview
 
 ### 🧠 Full Dashboard Overview
-![Economic Dashboard](economic dashboard.png )
+![Economic Dashboard](economic_dashboard.png)
 
 ### 📉 Unemployment Rate Over Time
-![Unemployment Rate](Unemployment Rate.png )
+![Unemployment Rate](Unemployment_Rate.png)
 
 ### 💰 GDP Over Time
-![GDP Plot](GDP plot.png )
+![GDP Plot](GDP_plot.png)
 
 ### 📊 CPI Over Time
-![CPI Plot](CPI plot.png)
+![CPI Plot](CPI_plot.png)
 
 ### 💹 Interest Rate Over Time
 ![Interest Rate Plot](Interest_rate.png)
